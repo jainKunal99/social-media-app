@@ -1,0 +1,14 @@
+Grid FS - to upload images directly to mongoDb
+Pusher.js - for real time update
+
+username[MongoDb] -> admin
+password[MongoDb] -> hjepWc63ytFvcEOu
+
+material-ui icons & core install
+
+//
+Save the image -> Save the post with image name -> 
+retrieve post -> grab image name ->
+
+
+mongofiles get "images.files" "mongodb+srv://admin:hjepWc63ytFvcEOu@cluster0.tande.mongodb.net/social-media-app-Db?retryWrites=true&w=majority" 

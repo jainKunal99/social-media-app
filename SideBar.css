@@ -1,0 +1,8 @@
+.sideBar{
+    
+    padding: 25px 10px;
+    /* border: 1px solid red; */
+    /* width: 25%; */
+    flex: .4;
+    position: relative;
+}

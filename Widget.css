@@ -1,0 +1,6 @@
+.videoFrame{
+    margin: 10px 40px ;
+    overflow-y: hidden;
+    position: fixed;
+    /* width: 25%; */
+}
